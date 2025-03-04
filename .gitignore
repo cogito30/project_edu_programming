@@ -1,4 +1,3 @@
 .vscode/
-test/
-programming/
-ai/
+.DS_Store
+etc/
